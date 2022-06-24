@@ -1,4 +1,7 @@
 # Coding Interview University
+<details>
+  <summary>Info </summary>
+  
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -13,86 +16,7 @@
 > including the giants: Amazon, Facebook, Google, and Microsoft.
 >
 > *Best of luck to you!*
-
-<details>
-<summary>Translations:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
-- [Bulgarian](translations/README-bg.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-
 </details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-
-</details>
-
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
-    <hr />
-</div>
-
-## What is it?
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 This is my multi-month study plan for becoming a software engineer for a large company. 
 
@@ -101,19 +25,11 @@ This is my multi-month study plan for becoming a software engineer for a large c
 * Patience
 * Time
 
-Note this is a study plan for **software engineering**, not web development. Large software companies like Google, Amazon, 
-Facebook and Microsoft view software engineering as different from web development. For example, Amazon has 
-Frontend Engineers (FEE) and Software Development Engineers (SDE). These are 2 separate roles and the interviews for 
-them will not be the same, as each has its own competencies. These companies require computer science knowledge for 
-software development/engineering roles.
-
 ---
 
-## Table of Contents
+<details> 
+<summary>The Study Plan</summary>
 
-### The Study Plan
-
-- [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -127,7 +43,10 @@ software development/engineering roles.
 - [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
 
-### Topics of Study
+</details> 
+
+<details>
+<summary> Topics of Study </summary>
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
@@ -174,8 +93,10 @@ software development/engineering roles.
     - [Endianness](#endianness)
     - [Networking](#networking)
 - [Final Review](#final-review)
+</details>
 
-### Getting the Job
+<details>
+<summary> Getting the Job </summary>
 
 - [Update Your Resume](#update-your-resume)
 - [Find a Job](#find-a-job)
@@ -183,10 +104,10 @@ software development/engineering roles.
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
+</details>
 
-**---------------- Everything below this point is optional ----------------**
-
-### Optional Extra Topics & Resources
+<details>
+<summary> Optional Extra Topics & Resources </summary>
 
 - [Additional Books](#additional-books)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
@@ -232,14 +153,13 @@ software development/engineering roles.
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
+</details>
 
 ---
 
 ## Why use it?
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
-
-If you missed out on getting a degree in computer science, like I did, this will catch you up and save four years of your life.
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, or anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it would have been terrible.
@@ -256,14 +176,6 @@ Everything below is an outline, and you should tackle the items in order from to
 
 I'm using GitHub's special markdown flavor, including tasks lists to track progress.
   - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
 
 ### If you're comfortable with git
 
@@ -293,15 +205,6 @@ Mark all boxes with X after you completed your changes:
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## A Note About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-It would be great to replace the online course resources with free and always-available public sources, 
-such as YouTube videos (preferably university lectures), so that you people can study these anytime, 
-not just when a specific online course is in session.
 
 ## Choose a Programming Language
 
@@ -338,17 +241,6 @@ You may not need it, but here are some sites for learning a new language:
 
 ### For your Coding Interview
 
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
-
-- C++
-- Java
-- Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
 Here is an article I wrote about choosing a language for the interview: 
 [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
 This is the original article my post was based on: [Choosing a Programming Language for Interviews](https://web.archive.org/web/20210516054124/http://blog.codingforinterviews.com/best-programming-language-jobs/)
@@ -366,6 +258,18 @@ This book will form your foundation for computer science.
 
 Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
 
+### Java
+
+Your choice:
+
+- Goodrich, Tamassia, Goldwasser
+    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- Sedgewick and Wayne:
+    - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - Free Coursera course that covers the book (taught by the authors!):
+        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
+        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
 ### C
 
 - [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
@@ -378,18 +282,6 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
-### Java
-
-Your choice:
-
-- Goodrich, Tamassia, Goldwasser
-    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-- Sedgewick and Wayne:
-    - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - Free Coursera course that covers the book (taught by the authors!):
-        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 ### C++
 
